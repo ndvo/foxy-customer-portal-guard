@@ -124,3 +124,5 @@ async function handleRequest (request) {
     }
   }
 }
+
+export const handleRequest = handleRequest;
